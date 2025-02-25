@@ -2,7 +2,7 @@
 
 ### Morley: What It Is and Why It Matters
 
-Morley is an innovative compiler and development ecosystem designed to bridge the world of industrial automation with decentralized smart contracts on the Cardano blockchain. It allows engineers to write Ladder Logic diagrams and seamlessly compile them into Plutus smart contracts, enabling secure and transparent industrial automation on a decentralized network.
+Morley is an innovative compiler and development ecosystem designed to bridge the world of industrial automation with decentralized smart contracts on the Cardano blockchain, Cardano's HYDRA L2, Midgard and Cardano-Cardano Sidechains. It allows engineers to write Ladder Logic diagrams and seamlessly compile them into Plutus smart contracts, enabling secure and transparent industrial automation on a decentralized network.
 
 ### Why Morley?
 
