@@ -104,7 +104,7 @@ To begin using Morley:
 
 ---
 
-### Next Steps
+### Keep Moving!
 
 - Begin by exploring the Morley architecture and how it integrates Ladder Logic with Plutus.  
 - Set up ArkWriter and start writing your first Ladder Logic diagram.  
