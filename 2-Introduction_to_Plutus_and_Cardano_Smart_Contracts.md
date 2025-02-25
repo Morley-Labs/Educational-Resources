@@ -8,7 +8,7 @@ Plutus is particularly suitable for financial contracts, supply chain tracking, 
 
 **Suggested Resources:**
 - Plutus Pioneer Program: Comprehensive educational content provided by IOHK to learn Plutus from scratch.  
-  [Join the Plutus Pioneer Program](https://developers.cardano.org/en/plutus-pioneer-program)
+  [Check out the Plutus Pioneer Program](https://docs.cardano.org/pioneer-programs/plutus-pioneers)
 - IOHK GitHub Repositories: Source code and examples for building Plutus contracts.  
   [Explore on GitHub](https://github.com/input-output-hk)
 
