@@ -37,7 +37,7 @@ This is the perfect starting point for anyone interested in programmable logic c
 - **Advanced Programming:** Function Blocks, Functions, and Libraries
 - **Examples:** Sample programs and industrial use cases
 
-**Start Learning:** [Structured Text](./1-Introduction_to_Ladder_Logic.md)
+**Start Learning:** [Structured Text](./2-Introduction_to_Structured_Text.md)
 
 ---
 
@@ -48,7 +48,7 @@ This is the perfect starting point for anyone interested in programmable logic c
 - **Examples:** Real-world examples, including financial contracts and NFTs
 - **Developer Tools:** Links to Plutus Pioneers Program and related resources
 
-**Start Learning:** [Plutus](./2-Introduction_to_Plutus_and_Cardano_Smart_Contracts.md)
+**Start Learning:** [Plutus](./3-Introduction_to_Plutus_and_Cardano_Smart_Contracts.md)
 
 ---
 
@@ -59,7 +59,7 @@ This is the perfect starting point for anyone interested in programmable logic c
 - **Advanced Features:** Time Logic, State Machines, and Hybrid Automation
 - **Examples:** Complex industrial automation examples with on-chain logic
 
-**Start Learning:** [Morley Compiler](./3-Morley_Overview_and_Vision.md)
+**Start Learning:** [Morley Compiler](./4-Morley_Overview_and_Vision.md)
 
 ---
 
