@@ -1,4 +1,4 @@
-## 2. Introduction to Plutus and Cardano Smart Contracts
+## 3. Introduction to Plutus and Cardano Smart Contracts
 
 ### What is Plutus?
 
