@@ -1,4 +1,4 @@
-## 3. Morley Overview and Vision
+## 4. Morley Overview and Vision
 
 ### Morley: What It Is and Why It Matters
 
