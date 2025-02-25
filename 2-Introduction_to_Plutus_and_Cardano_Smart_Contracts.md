@@ -64,8 +64,8 @@ To start writing and deploying Plutus smart contracts, developers need to set up
 
 **Suggested Resources:**
 - Plutus Pioneer Program Module 3: Guides on setting up the environment and writing your first Plutus contract.  
-- Plutus Playground Tutorial: Learn how to simulate and test smart contracts.  
-  [Try Plutus Playground](https://playground.plutus.iohkdev.io)
+- Marlowe Playground Tutorial: Learn how to write and deploy smart contracts with Marlowe from basics to production.  
+  [Try Marlowe Playground](https://playground.marlowe-lang.org/#/)
 
 ---
 
